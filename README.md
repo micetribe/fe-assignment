@@ -32,7 +32,7 @@ You are the owner of a movie theater in **film City,** on the Wookiee homeworld 
 ### CodeSubmit
 
 Please organize, design, test and document your code as if it were
-going into production - then push your changes to the master branch. After you have pushed your code, you may submit the assignment on the assignment page.
+going into production - then push your changes to the master branch. After you have pushed your code, you may send us email with your repo url.
 
 All the best and happy coding,
 
