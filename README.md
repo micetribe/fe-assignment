@@ -1,4 +1,4 @@
-## React - Wookie Movies
+## Angular - Wookie Movies
 
 ### Description
 
